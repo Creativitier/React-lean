@@ -1,2 +1,0 @@
-# React-lean
-React lean
